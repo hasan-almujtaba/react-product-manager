@@ -1,0 +1,5 @@
+export { default as ErrorPage } from './error'
+export { default as LoginPage } from './auth/login'
+export { default as DashboardHome } from './dashboard/home'
+export { default as DashboardCreate } from './dashboard/create'
+export { default as DashboardEdit } from './dashboard/edit'

@@ -1,0 +1,16 @@
+.ql-editor {
+  height: 150px;
+}
+
+.ql-toolbar.ql-snow,
+.ql-container.ql-snow {
+  @apply border-black;
+}
+
+.ql-toolbar.ql-snow {
+  @apply rounded-t;
+}
+
+.ql-container.ql-snow {
+  @apply rounded-b;
+}

@@ -1,0 +1,5 @@
+*.config.cjs
+*.config.js
+*.config.ts
+
+dist
